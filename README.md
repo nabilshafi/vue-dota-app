@@ -1,4 +1,4 @@
-# yes
+# Dota - VUEJS APP
 
 > A Vue.js project
 
